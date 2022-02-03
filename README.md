@@ -3,4 +3,7 @@ These are projects that are constructed using p5.js. To view the final productio
 in each folder and it'll open up a web browser to be able to view the program. There are ther attached files within the program t
 hat are used to run to program.
 
-To view my rough drafts and sketches: https://editor.p5js.org/nelsonc016/sketches 
+DISCLAIMER: It's better to view my projects "P5JSPRESENTATION.zip" and "P5JSNELSONSGAME.zip" through my link below as they are able to run better.
+You will be able to find them as "PRJT3ART151" and "ART151FNLPRJT".
+
+To view my rough drafts and projects: https://editor.p5js.org/nelsonc016/sketches 
